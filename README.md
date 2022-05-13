@@ -1,2 +1,2 @@
 # From-Data-to-Insights-with-Google-Cloud
-From Data to Insights with Google Cloud
+Esta especialização on-line acelerada de quatro cursos ensina os participantes do curso a obter insights por meio da análise e visualização de dados usando o Google Cloud Platform. Os cursos apresentam cenários interativos e laboratórios práticos onde os participantes exploram, mineram, carregam, visualizam e extraem insights de diversos conjuntos de dados do Google BigQuery. Os cursos também abrangem carregamento de dados, consulta, modelagem de esquema, otimização de desempenho, preços de consulta e visualização de dados.
